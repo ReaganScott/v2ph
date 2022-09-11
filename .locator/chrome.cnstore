@@ -1,0 +1,257 @@
+{
+	"id": "e367cfc3-2514-4c7c-ac30-aa2967861449",
+	"name": "chrome",
+	"nodes": [
+		{
+			"id": "dec90873-65de-40ae-8251-ed6d670d744b",
+			"name": "v2ph",
+			"nodes": [],
+			"locators": [
+				{
+					"id": "f4162955-3348-4cca-a108-23fc1278bf82",
+					"name": "img_list",
+					"filePath": "bc4ba22b-8a8b-4a9c-a04e-d85c6c54c099.jpg",
+					"content": {
+						"automationType": "Chrome",
+						"processName": {
+							"value": "chrome"
+						},
+						"filePath": {
+							"value": "chrome.exe"
+						},
+						"version": {
+							"value": "1.3"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"role": {
+										"value": "window"
+									},
+									"title": {
+										"value": "The Latest High-definition Sexy Beauty Pictures - V2PH"
+									},
+									"url": {
+										"value": "https://www.v2ph.com/",
+										"excluded": true
+									},
+									"className": {
+										"value": "Chrome_WidgetWin_1"
+									},
+									"controlMetaType": "Tab"
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"tag": {
+												"value": "A"
+											},
+											"ancestorClass": {
+												"value": "h6"
+											},
+											"isLeaf": {
+												"value": "1"
+											},
+											"cssSelector": {
+												"value": "body>div>div>div>div>div>div>div>a"
+											},
+											"sInfo": {
+												"value": "Elsa \"Sailor's Poem\" [Yu Guoquan] No.598 Photo Album",
+												"excluded": true
+											},
+											"tableRow": {
+												"value": "-1",
+												"excluded": true
+											},
+											"tableCol": {
+												"value": "-1",
+												"excluded": true
+											},
+											"href": {
+												"value": "/album/*"
+											},
+											"controlMetaType": "Web",
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										}
+									}
+								]
+							}
+						]
+					}
+				},
+				{
+					"id": "d6b06bdf-d2c8-46e3-a7ae-f7cb8c495ef0",
+					"name": "img_sublist",
+					"filePath": "de156050-7323-46fe-a1bd-f54dd99d2e0e.jpg",
+					"content": {
+						"automationType": "Chrome",
+						"processName": {
+							"value": "chrome"
+						},
+						"filePath": {
+							"value": "chrome.exe"
+						},
+						"version": {
+							"value": "1.3"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"role": {
+										"value": "window"
+									},
+									"title": {
+										"value": "Elsa &quot;Sailor&#39;s Poem&quot; [Yu Guoquan] No.598 Photo Album - V2PH",
+										"excluded": true
+									},
+									"url": {
+										"value": "https://www.v2ph.com/album*",
+										"excluded": false
+									},
+									"className": {
+										"value": "Chrome_WidgetWin_1"
+									},
+									"controlMetaType": "Tab"
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"tag": {
+												"value": "IMG"
+											},
+											"class": {
+												"value": "img-fluid album-photo d-block mx-auto"
+											},
+											"ancestorClass": {
+												"value": "album-photo my-2"
+											},
+											"isLeaf": {
+												"value": "1"
+											},
+											"cssSelector": {
+												"value": "body>div>div>div>img"
+											},
+											"sInfo": {
+												"value": "Elsa &quot;Sailor&#39;s Poem&quot; [Yu Guoquan] No.598 Photo Album *",
+												"excluded": true
+											},
+											"tableRow": {
+												"value": "-1",
+												"excluded": true
+											},
+											"tableCol": {
+												"value": "-1",
+												"excluded": true
+											},
+											"src": {
+												"value": "https://cdn.v2ph.com/photos/*"
+											},
+											"controlMetaType": "Web",
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						]
+					}
+				},
+				{
+					"id": "98ddf4e5-9f31-427f-9f5f-f4fb80855367",
+					"name": "a_next",
+					"filePath": "e6cb591a-b6ed-4162-9b4f-b2915e53a161.jpg",
+					"content": {
+						"automationType": "Chrome",
+						"processName": {
+							"value": "chrome"
+						},
+						"filePath": {
+							"value": "chrome.exe"
+						},
+						"version": {
+							"value": "1.3"
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"role": {
+										"value": "window"
+									},
+									"title": {
+										"value": "Asami Kondou Asami Kondo --bfaa_036_011 [Girlz-High] Photobook - V2PH",
+										"excluded": true
+									},
+									"url": {
+										"value": "https://www.v2ph.com/album*",
+										"excluded": false
+									},
+									"className": {
+										"value": "Chrome_WidgetWin_1"
+									},
+									"controlMetaType": "Tab"
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"tag": {
+												"value": "A"
+											},
+											"class": {
+												"value": "page-link",
+												"excluded": true
+											},
+											"ancestorClass": {
+												"value": "page-item",
+												"excluded": true
+											},
+											"isLeaf": {
+												"value": "1",
+												"excluded": true
+											},
+											"cssSelector": {
+												"value": "body>div>div>nav>ul>li>a",
+												"excluded": true
+											},
+											"sInfo": {
+												"value": "Next"
+											},
+											"tableRow": {
+												"value": "-1",
+												"excluded": true
+											},
+											"tableCol": {
+												"value": "-1",
+												"excluded": true
+											},
+											"href": {
+												"value": "/album/z3x543oa.html?page=2",
+												"excluded": true
+											},
+											"controlMetaType": "Web",
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"locators": []
+}
